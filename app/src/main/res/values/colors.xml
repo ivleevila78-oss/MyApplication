@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Цвета Steam -->
+    <color name="steam_bg">#171A21</color>
+    <color name="steam_card">#2A475E</color>
+    <color name="steam_blue">#66C0F4</color>
+    <color name="steam_text_gray">#8F98A0</color>
+</resources>
